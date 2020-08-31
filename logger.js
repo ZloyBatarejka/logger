@@ -1,1 +1,1 @@
-console.log("I am a submodule");
+console.log("I am a submodule commit 2");
